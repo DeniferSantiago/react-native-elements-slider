@@ -5,7 +5,7 @@ react native elements slider
 ## Installation
 
 ```sh
-npm install react-native-elements-slider
+yarn add react-native-elements-slider
 ```
 
 ## Usage
